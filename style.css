@@ -351,7 +351,7 @@ main {
         align-self: center;
         width: 100%;
         max-width: 320px;
-        height: 360px;
+        height: auto;
         flex: none;
     }
 }
